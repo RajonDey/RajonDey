@@ -1,7 +1,7 @@
 Hi, I'm Rajon 👋
 ---
 ## Frontend Developer !!
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=asima-chowdhury&label=Profile%20views&color=129e00&style=plastic" alt="rajon-dey" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=RajonDey&label=Profile%20views&color=129e00&style=plastic" alt="rajon-dey" /> </p> -->
 
 ---
 - 👀 I’m interested in ----
