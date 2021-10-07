@@ -4,10 +4,10 @@ Hi, I'm Rajon 👋
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=RajonDey&label=Profile%20views&color=129e00&style=plastic" alt="rajon-dey" /> </p> -->
 
 ---
-- 👀 I’m interested in ----
-- 🌱 I’m currently learning ---
-- 🥅 2022 goals: 
-- ⚡ Fun fact: I love to play guitar
+- 👀 I’m interested in almost anything!
+- 🌱 I’m currently learning React & Node!
+- 🥅 2022 goals: not set yet!
+- ⚡ Fun fact: love doing music!
 
 
 ### 📫 Get in touch:
