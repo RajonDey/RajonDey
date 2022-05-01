@@ -6,7 +6,7 @@ Hi, I'm Rajon 👋
 ---
 - 👀 I’m interested in almost anything!
 - 🌱 I’m currently learning React & Node!
-- 🥅 2022 goals: not set yet!
+- 🥅 2022 goals: Planned!
 - ⚡ Fun fact: love doing music!
 
 
