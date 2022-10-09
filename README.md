@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Rajon a Frontend Developer.</h1>
----
+
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=RajonDey&label=Profile%20views&color=129e00&style=plastic" alt="rajon-dey" /> </p> -->
 
 ## 🙋‍♂️ About Me
@@ -7,14 +7,18 @@
 - 🌱 I’m currently learning React & Node!
 - 🥅 2022 goals: Planned!
 - ⚡ **[My Portfolio](https://developerjunaid.com)**
+- [![Gmail URL](https://img.shields.io/badge/social--badge?style=social&label=email&logo=gmail)](mailto:hello@rajondey.com)
 
 
 ### 📫 Get in touch:
-[![Gmail URL](https://img.shields.io/badge/social--badge?style=social&label=email&logo=gmail)](mailto:hello@rajondey.com)
-[![Linkedin URL](https://img.shields.io/badge/social--badge?style=social&label=linkedin&logo=linkedin)](https://www.linkedin.com/in/rajondey/)
----
+<p align="left">
 
+<a href = "https://www.linkedin.com/in/rajondey/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://twitter.com/rajjon_dey"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://www.instagram.com/rajjon.dey/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://www.facebook.com/rajjon.dey/"><img src="https://img.icons8.com/color/48/000000/facebook.png"/></a>
 
+    
 ## 💻 Languages and Tools:
 
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5&logoColor=ffffff&labelColor=E34F26)
@@ -41,6 +45,6 @@
 
 ### ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=developer-junaid">
+    <img src="https://komarev.com/ghpvc/?username=RajonDey">
 </a>
-<a href="https://github.com/developer-junaid?tab=followers"><img src="https://img.shields.io/github/followers/developer-junaid?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/developer-junaid?tab=followers"><img src="https://img.shields.io/github/followers/RajonDey?label=Followers&style=social" alt="GitHub Badge"></a>
