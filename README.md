@@ -1,13 +1,12 @@
-Hi, I'm Rajon 👋
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Rajon a Frontend Developer.</h1>
 ---
-## Frontend Developer !!
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=RajonDey&label=Profile%20views&color=129e00&style=plastic" alt="rajon-dey" /> </p> -->
 
----
+## 🙋‍♂️ About Me
 - 👀 I’m interested in almost anything!
 - 🌱 I’m currently learning React & Node!
 - 🥅 2022 goals: Planned!
-- ⚡ Fun fact: love doing music!
+- ⚡ **[My Portfolio](https://developerjunaid.com)**
 
 
 ### 📫 Get in touch:
@@ -16,7 +15,7 @@ Hi, I'm Rajon 👋
 ---
 
 
-### 💻 Languages and Tools:
+## 💻 Languages and Tools:
 
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5&logoColor=ffffff&labelColor=E34F26)
 ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3&logoColor=ffffff&labelColor=1572B6)
@@ -40,3 +39,8 @@ Hi, I'm Rajon 👋
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=RajonDey&show_icons=true&theme=cobalt&title_color=3cb480&locale=en&layout=compact" alt="rajon-dey" /></p>
 
+### ❤ Views and Followers
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=developer-junaid">
+</a>
+<a href="https://github.com/developer-junaid?tab=followers"><img src="https://img.shields.io/github/followers/developer-junaid?label=Followers&style=social" alt="GitHub Badge"></a>
