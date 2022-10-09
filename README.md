@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Rajon a Frontend Developer.</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=RajonDey&label=Profile%20views&color=129e00&style=plastic" alt="rajon-dey" /> </p> -->
 
