@@ -5,7 +5,7 @@
 ## 🙋‍♂️ About Me
 - 👀 I’m interested in almost anything!
 - 🌱 I’m currently learning TS & NextJS.
-- 🥅 2023 goals: Planned!
+- 🥅 2024 goals: Planned!
 - ⚡ **[My Portfolio](https://rajondey.com/)**
 - [![Gmail URL](https://img.shields.io/badge/social--badge?style=social&label=email&logo=gmail)](mailto:hello@rajondey.com)
 
