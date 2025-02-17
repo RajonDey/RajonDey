@@ -1,82 +1,126 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+# Rajon Dey
 
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=RajonDey&label=Profile%20views&color=129e00&style=plastic" alt="rajon-dey" /> </p> -->
+<img align="center" src="https://github.com/RajonDey/RajonDey/blob/main/img/your-banner-image.png" alt="Rajon Dey" />
 
-## 🙋‍♂️ About Me
-- 👀 I’m interested in almost anything!
-- 🌱 I’m currently learning TS & NextJS.
-- 🥅 2024 goals: Planned!
-- ⚡ **[My Portfolio](https://rajondey.com/)**
-- [![Gmail URL](https://img.shields.io/badge/social--badge?style=social&label=email&logo=gmail)](mailto:hello@rajondey.com)
+<h3 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&multiline=true&width=460&lines=Hey,+This+is+Rajon+%3C%2F%3E" alt="Typing SVG" />
+  </a>
+</h3>
 
+---
 
-### 📫 Get in touch:
+## About Me
+
+👨‍💻 **Software Developer** specializing in **React, Next.js, Node.js, and Three.js**. I create scalable and efficient web applications and enjoy problem-solving through technology. Experienced in **Headless CMS** solutions and platforms like **WordPress, Shopify, Wix, and Squarespace**.
+
+### 👀 I’m interested in
+- Almost anything tech-related!
+- Exploring AI, Backend, DevOps, and automation.
+
+### 🌱 I’m currently learning
+- **TypeScript & Next.js** to build more scalable applications.
+
+### 📜 2024 in Memory
+- Read it out!
+
+### 🎯 2025 Goals
+- Planned and set! 🚀
+
+---
+
+## 🔧 Tech Stack
+
+### **Frontend**
 <p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,redux,materialui" />
+  </a>
+</p>
 
-<a href = "https://www.linkedin.com/in/rajondey/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/rajjon_dey"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/rajjon.dey/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "https://www.facebook.com/rajjon.dey/"><img src="https://img.icons8.com/color/48/000000/facebook.png"/></a>
+### **Backend**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,nestjs,prisma,supabase" />
+  </a>
+</p>
 
-    
-## 💻 Skills:
+### **Database**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
+  </a>
+</p>
 
+### **Cloud & Servers**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,gcp,firebase,cloudflare" />
+  </a>
+</p>
 
-### 👩‍💻 Languages:
+### **Tools & Platforms**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,docker,vercel,netlify,figma,xd,idea,vscode,postman,linux" />
+  </a>
+</p>
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Json](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+---
 
-### 🚀 Frameworks & Library: 
+## 🚀 Featured Projects
 
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Bulma](https://img.shields.io/badge/Bulma-00D1B2?style=for-the-badge&logo=Bulma&logoColor=white)
-![Chakra UI](https://img.shields.io/badge/Chakra--UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white)
-![Material UI](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![Next JS](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![ThreeJs](https://img.shields.io/badge/ThreeJs-black?style=for-the-badge&logo=three.js&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
-![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white)
-![Gulp](https://img.shields.io/badge/Gulp-CF4647?style=for-the-badge&logo=gulp&logoColor=white)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
+🔹 Check out my repos at [GitHub](https://github.com/RajonDey)
 
-### ☁ Cloud: 
+🔹 Portfolio: [https://portfolio.rajondey.com](https://portfolio.rajondey.com)
 
-![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+---
 
-### ⚡ Database:
+## 📫 Reach Me
 
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+- 📩 **Email:** rajondeyofficial@gmail.com
+- 💼 **LinkedIn:** [@rajondey](https://www.linkedin.com/in/rajondey)
+- 🖥 **Portfolio:** [portfolio.rajondey.com](https://portfolio.rajondey.com)
+- 🔗 **Threads:** [@RajonDey](https://www.threads.net/@rajjon.dey)
+- 🐦 **Twitter (X):** [@RajonDey](https://twitter.com/RajonDey)
 
-### 🖍 Design:
+---
 
-![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![InVision](https://img.shields.io/badge/InVision-FF3366?style=for-the-badge&logo=InVision&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
+## 🏆 GitHub Stats & Badges
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RajonDey&show_icons=true&theme=radical" alt="Rajon's GitHub Stats" />
+</p>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=RajonDey&theme=dracula&margin-w=15" alt="Rajon's Trophies" />
+</p>
 
-### ⭐ Github Stats
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=RajonDey&label=Profile%20Views&color=blue&style=flat" alt="Rajon's Profile Views" />
+  <img src="https://img.shields.io/github/followers/RajonDey?label=Followers&style=social" alt="Rajon's Followers" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=RajonDey&show_icons=true&theme=cobalt&title_color=3cb480&locale=en" alt="Rajon's GitHub Stats" /></p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=RajonDey&show_icons=true&theme=cobalt&title_color=3cb480&locale=en&layout=compact" alt="rajon-dey" /></p>
+## 🎨 Loves
 
-### ❤ Views and Followers
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=RajonDey">
-</a>
-<a href="https://github.com/developer-junaid?tab=followers"><img src="https://img.shields.io/github/followers/RajonDey?label=Followers&style=social" alt="GitHub Badge"></a>
+<div align="center">
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50" />
+</div>
+
+<div align="center">
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50" height="50" />
+</div>
+
+---
+
+### 🔥 Keep Coding & Keep Building!
