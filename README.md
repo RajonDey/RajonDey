@@ -1,6 +1,6 @@
 # Rajon Dey
 
-<img align="center" src="https://github.com/RajonDey/RajonDey/blob/main/img/your-banner-image.png" alt="Rajon Dey" />
+<img align="center" src="https://github.com/RajonDey/RajonDey/blob/main/Rajon%20Dey%20-%20Github.png" alt="Rajon Dey" />
 
 <h3 align="center">
   <a href="https://git.io/typing-svg">
