@@ -4,25 +4,20 @@
 
 <h3 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&multiline=true&width=460&lines=Hey,+This+is+Rajon+%3C%2F%3E" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&multiline=true&width=460&lines=Love+Crafting+Softwares+%3C%2F%3E" alt="Typing SVG" />
   </a>
 </h3>
 
 ---
 
-## About Me
-
-👨‍💻 **Software Developer** specializing in **React, Next.js, Node.js, and Three.js**. I create scalable and efficient web applications and enjoy problem-solving through technology. Experienced in **Headless CMS** solutions and platforms like **WordPress, Shopify, Wix, and Squarespace**.
+👨‍💻 A **Software Developer** with expertise in **React, Next.js, Node.js, and Three.js**. I specialize in creating scalable, efficient, and user-friendly web applications. My passion lies in transforming ideas into reality by leveraging modern technologies and collaborative problem-solving. I’m also experienced in building websites using **Headless CMS** and platforms like **WordPress, Shopify, Wix, and Squarespace**.
 
 ### 👀 I’m interested in
 - Almost anything tech-related!
-- Exploring AI, Backend, DevOps, and automation.
-
-### 🌱 I’m currently learning
-- **TypeScript & Next.js** to build more scalable applications.
+- currently exploring AI, Backend, DevOps, and automation.
 
 ### 📜 2024 in Memory
-- Read it out!
+- [Read it out!](https://github.com/RajonDey)
 
 ### 🎯 2025 Goals
 - Planned and set! 🚀
@@ -70,7 +65,7 @@
 
 ## 🚀 Featured Projects
 
-🔹 Check out my repos at [GitHub](https://github.com/RajonDey)
+🔹 Check out my repos at [GitHub](https://github.com/RajonDey?tab=repositories)
 
 🔹 Portfolio: [https://portfolio.rajondey.com](https://portfolio.rajondey.com)
 
