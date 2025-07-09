@@ -12,7 +12,7 @@
 
 ---
 
-I’m a **Full-Stack Software Engineer** with 9+ years of experience building scalable web apps using **React**, **Next.js**, **TypeScript**, and **Node.js**. As a Module Lead, I’ve delivered 300+ projects, from e-commerce to SaaS platforms, with a focus on clean code and user-centric design. Currently diving into **AI-driven workflows** with **n8n** and exploring **automation**. Excited to learn **Go** and **DevOps** next!
+I’m Rajon, a **Full-Stack Software Engineer** passionate about building scalable apps with **React**, **Next.js**, **Python**, **PHP**, and **Node.js**. With 9+ years of experience and 300+ projects, I lead teams to deliver e-commerce and SaaS solutions with clean code. Currently crafting **AI-powered tools** with **n8n** and exploring **Go** and **DevOps**.
 
 Check my pinned repositories for projects like **ClipKit** (AI-powered SaaS) and **Coinic** (blockchain explorer). Open to **remote Software Engineer roles** globally! 🌍
 
@@ -21,28 +21,28 @@ Check my pinned repositories for projects like **ClipKit** (AI-powered SaaS) and
 ## 🔧 Tech Stack
 
 ### Frontend
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,redux" />
   </a>
 </p>
 
 ### Backend
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,php,python" />
   </a>
 </p>
 
 ### Database
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
   </a>
 </p>
 
 ### Tools & Platforms
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=aws,docker,githubactions,vercel,netlify,vscode,postman,wordpress" />
   </a>
@@ -65,22 +65,24 @@ Check my pinned repositories for projects like **ClipKit** (AI-powered SaaS) and
 
 ## 📬 Connect with Me
 
-- 📧 Email: [rajon.dey.dev@gmail.com](mailto:rajon.dey.dev@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/rajondey](https://linkedin.com/in/rajondey)
-- 🖥 Portfolio: [portfolio.rajondey.com](https://portfolio.rajondey.com)
-- 📝 Blogs: [dev.to/rajondey](https://dev.to/rajondey) | [hashnode.com/@rajondey](https://hashnode.com/@rajondey) | [medium.com/@rajondey](https://medium.com/@rajondey)
-- 🐦 X: [@RajonDey](https://x.com/RajonDey)
+- Email: [rajon.dey.dev@gmail.com](mailto:rajon.dey.dev@gmail.com)
+- LinkedIn: [linkedin.com/in/rajondey](https://linkedin.com/in/rajondey)
+- Portfolio: [portfolio.rajondey.com](https://portfolio.rajondey.com)
+- Blogs: [dev.to/rajondey](https://dev.to/rajondey) | [hashnode.com/@rajondey](https://hashnode.com/@rajondey) | [medium.com/@rajondey](https://medium.com/@rajondey)
+- X: [@RajonDey](https://x.com/RajonDey)
+- Threads: [@rajjon.dey](https://www.threads.com/@rajjon.dey)
+
 
 ---
 
 ## 🏆 GitHub Stats
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=RajonDey&show_icons=true&theme=radical" alt="Rajon's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RajonDey&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RajonDey&layout=compact&theme=radical" alt="Top Languages" height="195"/>
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=RajonDey&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
 </p>
 
@@ -88,7 +90,7 @@ Check my pinned repositories for projects like **ClipKit** (AI-powered SaaS) and
 
 ## 🎸 Fun Fact
 
-I’m a music enthusiast and love blending tech with creativity—check out my [music site](https://music.rajondey.com) for some cool side projects!
+I’m a music enthusiast and love blending tech with creativity—check out my [music site](https://music.rajondey.com) for fun!
 
 ---
 
