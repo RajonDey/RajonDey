@@ -1,3 +1,4 @@
+
 # Rajon Dey
 
 <p align="center">
@@ -14,11 +15,11 @@
 
 I’m Rajon, a **Full-Stack Software Engineer** passionate about building scalable apps with **React**, **Next.js**, **Python**, **PHP**, and **Node.js**. With 9+ years of experience and 300+ projects, I lead teams to deliver e-commerce and SaaS solutions with clean code. Currently crafting **AI-powered tools** with **n8n** and exploring **Go** and **DevOps**.
 
-Check my pinned repositories for projects like **ClipKit** (AI-powered SaaS) and **Coinic** (blockchain explorer). Open to **remote Software Engineer roles** globally! 🌍
+Check my pinned repositories for projects like **ClipKit** (AI-powered SaaS) and **Coinic** (blockchain explorer). Open to **remote Software Engineer roles** globally! 
 
 ---
 
-## 🔧 Tech Stack
+## Tech Stack
 
 ### Frontend
 <p align="left">
@@ -54,7 +55,7 @@ Check my pinned repositories for projects like **ClipKit** (AI-powered SaaS) and
 
 ---
 
-## 🌟 What I’m Working On
+## What I’m Working On
 
 - Building **ClipKit**, an AI-powered SaaS platform with a Chrome extension and **FastAPI** backend. **[Pin it soon!](https://github.com/RajonDey/clipkit)**
 - Built **Coinic**, a blockchain explorer with real-time transaction data. **[Pinned](https://github.com/RajonDey/coinic)**
@@ -63,14 +64,15 @@ Check my pinned repositories for projects like **ClipKit** (AI-powered SaaS) and
 
 ---
 
-## 📬 Connect with Me
+## Connect with Me
 
-- Email: [rajon.dey.dev@gmail.com](mailto:rajon.dey.dev@gmail.com)
+- Email: [contact@rajondey.com](mailto:contact@rajondey.com)
 - LinkedIn: [linkedin.com/in/rajondey](https://linkedin.com/in/rajondey)
 - Portfolio: [portfolio.rajondey.com](https://portfolio.rajondey.com)
-- Blogs: [dev.to/rajondey](https://dev.to/rajondey) | [hashnode.com/@rajondey](https://hashnode.com/@rajondey) | [medium.com/@rajondey](https://medium.com/@rajondey)
-- X: [@RajonDey](https://x.com/RajonDey)
 - Threads: [@rajjon.dey](https://www.threads.com/@rajjon.dey)
+
+## Check Posts
+- Blogs: [dev.to/rajondey](https://dev.to/rajondey) | [hashnode.com/@rajondey](https://hashnode.com/@rajondey) | [medium.com/@rajondey](https://medium.com/@rajondey)
 
 
 ---
@@ -78,7 +80,7 @@ Check my pinned repositories for projects like **ClipKit** (AI-powered SaaS) and
 ## 🏆 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=RajonDey&show_icons=true&theme=radical" alt="Rajon's GitHub Stats" />
+  <img width="1000" float="left" src="https://github-readme-streak-stats.herokuapp.com?user=RajonDey&theme=ayu-mirage&hide_border=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RajonDey&layout=compact&theme=radical" alt="Top Languages" height="195"/>
 </p>
 
@@ -86,11 +88,8 @@ Check my pinned repositories for projects like **ClipKit** (AI-powered SaaS) and
   <img src="https://komarev.com/ghpvc/?username=RajonDey&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
 </p>
 
----
 
-## 🎸 Fun Fact
 
-I’m a music enthusiast and love blending tech with creativity—check out my [music site](https://music.rajondey.com) for fun!
 
 ---
 
