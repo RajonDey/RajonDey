@@ -1,96 +1,29 @@
-
 # Rajon Dey
 
-<p align="center">
-  <img src="https://github.com/RajonDey/RajonDey/blob/main/Rajon%20Dey%20-%20Github.png" alt="Rajon Dey Banner" width="600" />
-</p>
+Senior Software Engineer and Module Lead (Frontend) with a strong focus on building
+scalable, production-grade web applications.
 
-<h3 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&multiline=true&width=460&lines=Love+Crafting+Softwares+%3C%2F%3E" alt="Typing SVG" />
-  </a>
-</h3>
+I work primarily with React, Next.js, and TypeScript, owning frontend architecture
+and delivery for enterprise, healthcare, and SaaS products at SJ Innovation LLC.
+Alongside frontend leadership, I’m working on a full-stack experience by building
+backend services with Node.js and Python (FastAPI), and working with PostgreSQL and
+modern deployment workflows.
 
----
-
-I’m Rajon, a **Full-Stack Software Engineer** passionate about building scalable apps with **React**, **Next.js**, **Python**, **PHP**, and **Node.js**. With 9+ years of experience and 300+ projects, I lead teams to deliver e-commerce and SaaS solutions with clean code. Currently crafting **AI-powered tools** with **n8n** and exploring **Go** and **DevOps**.
-
-Check my pinned repositories for projects like **ClipKit** (AI-powered SaaS) and **Coinic** (blockchain explorer). Open to **remote Software Engineer roles** globally! 
+I value clean code, maintainable architecture, and long-term product thinking over
+short-term solutions or hype.
 
 ---
 
-## Tech Stack
+## Core Technologies
 
-### Frontend
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,redux" />
-  </a>
-</p>
-
-### Backend
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,php,python" />
-  </a>
-</p>
-
-### Database
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
-  </a>
-</p>
-
-### Tools & Platforms
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,docker,githubactions,vercel,netlify,vscode,postman,wordpress" />
-  </a>
-</p>
-
-**Other**: REST/GraphQL APIs, AI Agent Development, Workflow Automation, n8n
-
-**Learning Next**: **Go**, **DevOps (CI/CD, containerization)**
+- **Frontend:** React, Next.js, TypeScript
+- **Backend:** Node.js, Python (FastAPI)
+- **Databases:** PostgreSQL, MongoDB, MySQL
+- **DevOps (Foundational):** AWS (EC2, S3), Docker, GitHub Actions
 
 ---
 
-## What I’m Working On
+## Links
 
-- Building **ClipKit**, an AI-powered SaaS platform with a Chrome extension and **FastAPI** backend. **[Pin it soon!](https://github.com/RajonDey/clipkit)**
-- Built **Coinic**, a blockchain explorer with real-time transaction data. **[Pinned](https://github.com/RajonDey/coinic)**
-- Sharing **LLM research** on code poisoning via a **Next.js** site. **[Pinned](https://github.com/RajonDey/llm-research)**
-- Planning an **Algorithm Visualizer** to showcase **DSA skills**. **[Coming soon!]**
-
----
-
-## Connect with Me
-
-- Email: [contact@rajondey.com](mailto:contact@rajondey.com)
-- LinkedIn: [linkedin.com/in/rajondey](https://linkedin.com/in/rajondey)
-- Portfolio: [portfolio.rajondey.com](https://portfolio.rajondey.com)
-- Threads: [@rajjon.dey](https://www.threads.com/@rajjon.dey)
-
-## Check Posts
-- Blogs: [dev.to/rajondey](https://dev.to/rajondey) | [hashnode.com/@rajondey](https://hashnode.com/@rajondey) | [medium.com/@rajondey](https://medium.com/@rajondey)
-
-
----
-
-## 🏆 GitHub Stats
-
-<p align="left">
-  <img width="1000" float="left" src="https://github-readme-streak-stats.herokuapp.com?user=RajonDey&theme=ayu-mirage&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RajonDey&layout=compact&theme=radical" alt="Top Languages" height="195"/>
-</p>
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=RajonDey&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
-</p>
-
-
-
-
----
-
-🔥 **Keep coding, keep building!**
+- Portfolio: https://portfolio.rajondey.com  
+- LinkedIn: https://linkedin.com/in/rajondey
