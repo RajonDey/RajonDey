@@ -10,6 +10,18 @@ I value clean code, maintainable architecture, and long-term product thinking ov
 
 ---
 
+## Currently Building
+
+**IELTSReady** — Full-stack IELTS preparation platform for global 
+students. Next.js · Node.js · PostgreSQL  
+→ ieltsready.vercel.app
+
+**Yearly Blueprint Builder** — Personal productivity SaaS for annual 
+planning and reflection. Next.js App Router · PostgreSQL  
+→ yearinreview.online
+
+---
+
 ## What I built
 
 - Full-stack web applications (React/Next.js + Node.js/FastAPI)
