@@ -1,29 +1,36 @@
 # Rajon Dey
 
-Senior Software Engineer and Module Lead (Frontend) with a strong focus on building
-scalable, production-grade web applications.
+Senior Software Engineer and Module Lead with 6+ years delivering full-stack production systems across healthcare, SaaS, and enterprise platforms.
 
-I work primarily with React, Next.js, and TypeScript, owning frontend architecture
-and delivery for enterprise, healthcare, and SaaS products at SJ Innovation LLC.
-Alongside frontend leadership, I’m working on a full-stack experience by building
-backend services with Node.js and Python (FastAPI), and working with PostgreSQL and
-modern deployment workflows.
+Core stack: React · Next.js · TypeScript · Node.js · Python (FastAPI) · PostgreSQL · MongoDB
 
-I value clean code, maintainable architecture, and long-term product thinking over
-short-term solutions or hype.
+IEEE-published researcher in LLM security — "Code Poisoning Through Misleading Comments: Jailbreaking LLMs via Contextual Deception" (ICCIT 2025) → ieeexplore.ieee.org/document/11491067
+
+I value clean code, maintainable architecture, and long-term product thinking over short-term solutions or hype.
 
 ---
 
-## Core Technologies
+## What I built
 
-- **Frontend:** React, Next.js, TypeScript
-- **Backend:** Node.js, Python (FastAPI)
-- **Databases:** PostgreSQL, MongoDB, MySQL
-- **DevOps (Foundational):** AWS (EC2, S3), Docker, GitHub Actions
+- Full-stack web applications (React/Next.js + Node.js/FastAPI)
+- HIPAA-compliant healthcare platforms
+- Enterprise CMS and DXP systems (Contentful, headless architecture)
+- LLM security evaluation frameworks (Python, PyTorch)
+
+---
+
+## Stack
+
+**Frontend:** React, Next.js, TypeScript, Tailwind CSS  
+**Backend:** Node.js (Express), Python (FastAPI)  
+**Databases:** PostgreSQL, MongoDB, MySQL, Redis  
+**DevOps & Cloud:** AWS (EC2, S3), Docker, GitHub Actions, CI/CD  
+**CMS:** Contentful, WordPress  
 
 ---
 
 ## Links
 
 - Portfolio: https://portfolio.rajondey.com  
-- LinkedIn: https://linkedin.com/in/rajondey
+- LinkedIn: https://linkedin.com/in/rajondey  
+- IEEE Paper: https://ieeexplore.ieee.org/document/11491067
