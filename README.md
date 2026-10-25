@@ -1,6 +1,6 @@
 # Rajon Dey
 
-Senior Software Engineer and Module Lead with 6+ years delivering full-stack production systems across healthcare, SaaS, and enterprise platforms.
+Senior Software Engineer and Module Lead with 7+ years delivering full-stack production systems across healthcare, SaaS, and enterprise platforms.
 
 Core stack: React · Next.js · TypeScript · Node.js · Python (FastAPI) · PostgreSQL · MongoDB
 
